@@ -1,2 +1,6 @@
 # CSE537
-Multiagent Project 2
+Extended the Pacman Berkley implementation and added Backtracking and Forward Checking Constraint Propagation functions.
+
+The following files have been modified
+1. inference.py
+2. submit.py
