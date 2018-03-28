@@ -4,3 +4,4 @@ Extended the Pacman Berkley implementation and added Backtracking and Forward Ch
 The following files have been modified
 1. inference.py
 2. submit.py
+3. bustersAgents.py
